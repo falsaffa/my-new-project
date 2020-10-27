@@ -17,6 +17,11 @@ paths:
       tags: []
       responses: {}
       operationId: get-new
+    post:
+      summary: Your POST endpoint name
+      tags: []
+      responses: {}
+      operationId: get-new
   /new/second:
     get:
       summary: Your GET endpoint
