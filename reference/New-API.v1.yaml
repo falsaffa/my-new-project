@@ -13,7 +13,7 @@ paths:
       operationId: get-some-path
   /new:
     get:
-      summary: Your GET endpoint
+      summary: Your GET endpoint name
       tags: []
       responses: {}
       operationId: get-new
