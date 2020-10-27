@@ -11,5 +11,11 @@ paths:
       tags: []
       responses: {}
       operationId: get-some-path
+  /new:
+    get:
+      summary: Your GET endpoint
+      tags: []
+      responses: {}
+      operationId: get-new
 components:
   schemas: {}
